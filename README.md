@@ -1,2 +1,2 @@
 # aritmexercise
-Ejercicios simples de aritmetica en javascript
+Ejercicios de aritmetica y álgebra para estudiantes de ingeniería generados usando Jvascript y mostrando los objetos matemáticos mediante MathML
